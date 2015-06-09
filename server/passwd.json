@@ -1,0 +1,7 @@
+{
+	"example_user": {
+		"role": "user",
+		"lasttokenexpiry": 0,
+		"password": "some_brypt_hash"
+	}
+}
